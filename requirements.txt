@@ -1,0 +1,5 @@
+
+# O projeto TechBairro nao possui dependencias externas.
+# Ele utiliza apenas modulos embutidos na Biblioteca Padrao do Python:
+# - tkinter (interface grafica para janelas e botoes)
+# - sqlite3 (base de dados relacional local)
