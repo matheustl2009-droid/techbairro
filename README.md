@@ -1,7 +1,7 @@
 # TechBairro
 Sistema de cadastro e gestão de moradores desenvolvido para informatizar os atendimentos da associação de moradores do bairro. 
 (uma ou duas frases: o que o sistema faz e para quem)
-**Versão atual:** 3.3.1 · Histórico de mudanças no [CHANGELOG](CHANGELOG.md)
+**Versão atual:** 3.3.2 · Histórico de mudanças no [CHANGELOG](CHANGELOG.md)
 ## Funcionalidades
 - Cadastro de novos moradores/clientes.
 - Consulta de moradores cadastrados.

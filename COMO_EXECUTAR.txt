@@ -1,4 +1,4 @@
-TechBairro 3.2.1
+TechBairro 3.3.2
 Requisitos
 - Python 3 (testado com Python 3.12.0 no Windows 11 / Linux)
 - Nenhuma biblioteca extra: usa apenas tkinter, sqlite3 e os,
